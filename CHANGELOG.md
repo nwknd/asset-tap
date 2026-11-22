@@ -2,6 +2,12 @@
 
 All notable changes to Asset Tap are documented here.
 
+## v26.11.3 — 2026-11-22
+
+### Bug Fixes
+
+- **deps:** bump url to 2.5.9 (RUSTSEC-2026-0592) ([#129](https://github.com/nwknd/asset-tap/pull/129))
+
 ## v26.11.2 — 2026-11-16
 
 ### Chores
